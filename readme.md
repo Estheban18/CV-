@@ -20,3 +20,6 @@ Este proyecto está diseñado para clasificar currículums (resumes) utilizando 
 - Instalar dependencias con:
   ```bash
   pip install -r requirements.txt       
+
+
+![ChatGPT Image Jun 5, 2025, 08_34_27 PM](https://github.com/user-attachments/assets/3c9b0ad9-7fa9-4ff7-8ce3-6a742738c170)
