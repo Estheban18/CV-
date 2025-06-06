@@ -1,5 +1,4 @@
-# RESUME_CLASSIFICATION_MAIN
-
+CV
 ## Descripción
 Este proyecto está diseñado para clasificar currículums (resumes) utilizando técnicas de machine learning. Incluye datos de entrenamiento, validación y prueba, modelos entrenados con XGBoost y LSTM, así como scripts y notebooks para procesamiento de datos, análisis exploratorio y modelado.
 
